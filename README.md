@@ -1,6 +1,6 @@
 # JEE_Droit_Compte
 
-Mon application Web est une application Java EE qui utilise les technologies JSP, Servlets et JSTL. Elle est conçue pour être exécutée sur un serveur d'applications JEE tel que Tomcat ou Jetty. Nous utilisons maven comme gestionnaire de dependances
+Ce projet est une application Java EE de base qui utilise les technologies JSP, Servlets et JSTL. Elle est conçue pour être exécutée sur un serveur web JEE tel que Tomcat. Nous utilisons maven comme gestionnaire de dependances
 
 ## Arborescence des dossiers
 
